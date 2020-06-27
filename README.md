@@ -1,5 +1,7 @@
-# Toxic-Comment-Classification-Challenge-Kaggle (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+# Toxic-Comment-Classification-Challenge-Kaggle
 
+Kaggle Toxic Comment Classification Challenge: (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) <br />
+<br />
 Single LSTM + GRU Model with 10 fold CV yields a ROC-AUC score of 0.9871 against public LB highest of 0.9890 with current soultion ranked 300th on public LB <br />
 <br />
 **Further Details:** <br />
@@ -12,4 +14,4 @@ Implementation Libraries - Pytorch (Model) & Keras (Text Pre-processing) <br />
 <br />
 <br />
 **Note:**
-Did not use BERT baseline (though it would result in a high score) since it was not present at the time of the competition
+Did not use BERT baseline since it wasn't released at the time of competition <br />
