@@ -1,4 +1,4 @@
-# Toxic-Comment-Classification-Challenge-Kaggle
+# Toxic-Comment-Classification-Challenge
 
 Kaggle Toxic Comment Classification Challenge: (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) <br />
 <br />
@@ -8,9 +8,9 @@ Single LSTM + GRU Model with 10 fold CV yields a ROC-AUC score of 0.9871 against
 Embeddings - fastText & GloVe Twitter (200d) <br />
 Implementation Libraries - Pytorch (Model) & Keras (Text Pre-processing) <br />
 <br />
-**Scope for Improvement:**
+**Potential Areas of Improvement:**
 1. Modifying model architecture with focus on better regularization
-2. Ensembling different baseline models (though ensembling with NB-SVM baseline did not help improve the score) <br />
+2. Ensembling different baseline models (though ensembling with NB-SVM baseline did not help improve the score)
 <br />
 <br />
 **Note:** <br />
