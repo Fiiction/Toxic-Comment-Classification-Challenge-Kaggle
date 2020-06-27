@@ -13,5 +13,5 @@ Implementation Libraries - Pytorch (Model) & Keras (Text Pre-processing) <br />
 2. Ensembling different baseline models (though ensembling with NB-SVM baseline did not help improve the score) <br />
 <br />
 <br />
-**Note:**
+**Note:** <br />
 Did not use BERT baseline since it wasn't released at the time of competition <br />
