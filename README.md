@@ -2,7 +2,7 @@
 
 Kaggle Toxic Comment Classification Challenge: (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) <br />
 <br />
-Single LSTM + GRU Model with 10 fold CV yields a ROC-AUC score of **0.9871** against public LB highest of 0.9890 with current soultion ranked **300th** on public LB <br />
+Single LSTM + GRU Model with 10 fold CV yields a ROC-AUC score of **0.9871** against public LB highest of 0.9890 with current solution ranked **300th** on public LB <br />
 <br />
 **Additional Details:**
 1. Embedding Vectors - fastText & GloVe Twitter (200d)
